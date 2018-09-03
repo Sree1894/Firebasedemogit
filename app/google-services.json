@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543563134520",
+    "firebase_url": "https://fir-demo-7a573.firebaseio.com",
+    "project_id": "fir-demo-7a573",
+    "storage_bucket": "fir-demo-7a573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543563134520:android:eb08e25cc4349969",
+        "android_client_info": {
+          "package_name": "com.magellanix.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543563134520-ce3dd1pvcln79v7t2tgbqp7g34gjrd6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA81bXSXU_NRuhMn2h75hhRL-Ix_DjiIn0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
